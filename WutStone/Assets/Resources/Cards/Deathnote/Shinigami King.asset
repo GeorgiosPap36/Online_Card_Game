@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a36854c7eda61f4abb89ce228387a35, type: 3}
+  m_Name: Shinigami King
+  m_EditorClassIdentifier: 
+  cardType: 0
+  archType: 3
+  rarity: 0
+  cardName: Shinigami King
+  description: Can't be marked. <b>Battlecry:</b> Add a Deathnote to your hand.
+  artwork: {fileID: 21300000, guid: b3b742d4aeef78c45a94fc2107c1cfdf, type: 3}
+  offeset: {x: 0, y: 0}
+  scale: {x: 1, y: 1}
+  color:
+    serializedVersion: 2
+    rgba: 4289619874
+  mana: 12
+  attack: 8
+  health: 8
+  battlecry: 
+  valuesForBattlecries: 
+  passive: 
+  valuesForPassives: 
+  deathrattle: 
+  valuesForDeathrattlesl: 
+  forms: []
+  canBePutInDeck: 1

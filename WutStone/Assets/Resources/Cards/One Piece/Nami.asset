@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a36854c7eda61f4abb89ce228387a35, type: 3}
+  m_Name: Nami
+  m_EditorClassIdentifier: 
+  cardType: 0
+  archType: 1
+  rarity: 2
+  cardName: Nami
+  description: <b>Battlecry:</b> Both players discard 1 card and draw 1 card.
+  artwork: {fileID: 21300000, guid: 6f21432b2476af241a02a11c32d2fc21, type: 3}
+  offeset: {x: 0, y: -8}
+  scale: {x: 1, y: 1}
+  color:
+    serializedVersion: 2
+    rgba: 4291130193
+  mana: 2
+  attack: 2
+  health: 2
+  battlecry: 
+  valuesForBattlecries: 
+  passive: 
+  valuesForPassives: 
+  deathrattle: 
+  valuesForDeathrattlesl: 
+  forms: []
