@@ -6,4 +6,5 @@ Features:
 4. Manual Gameplay: The design is not fully finished, so gameplay actions need to be manually controlled, providing a unique hands-on experience.
 
 ### Notes
-The game’s design phase was never finished, meaning some elements like automated gameplay are not yet implemented. However, it provides a robust foundation for multiplayer card game fans to enjoy and build upon.
+1. The game’s design phase was never finished, meaning some elements like automated gameplay are not yet implemented. However, it provides a robust foundation for multiplayer card game fans to enjoy and build upon.
+2. Due to the use of copyrighted placeholder art, I am unable to upload a build of the project to this repository.
